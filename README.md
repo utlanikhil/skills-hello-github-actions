@@ -35,7 +35,7 @@ Your new action will run any time a pull request has been opened.
 1. Commit any change to your branch, such as adding an emoji to your README.md file.
 1. Create the pull request on your branch.
 1. See your action run on your pull request.
-1. Wait about 20 seconds for actions to run, then refresh this page (the one you're following instructions from) and an action will automatically close this step and open the next one. ☝️ ✅✅
+1. Wait about 20 seconds for actions to run, then refresh this page (the one you're following instructions from) and an action will automatically close this step and open the next one. ☝
    
 
 <footer>
@@ -52,3 +52,4 @@ Get help: [Post in our discussion board](https://github.com/skills/.github/discu
 &copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
 </footer>
+###😂😂😒😂
